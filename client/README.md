@@ -1,2 +1,2 @@
-# Expense Tracker (React)
+# Expense Tracker
 
